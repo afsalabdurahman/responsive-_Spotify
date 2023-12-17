@@ -23,9 +23,9 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   /* nave bar----------------------------------------------------------------------------------------------- */
   .phone{
-    position: absolute;
-    width: 100%;
-    height: 565px;
+   
+   
+   /* height: 70rem; */
     background-color: rgb(240, 55, 166);
     
     background: rgb(108,14,224);
@@ -36,7 +36,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  .bag{ 
  
 
-    height: 601px;
+    /* height: 601px; */
     width: 100%;
     /* position: absolute; */
     /* left: 771px; */
@@ -51,41 +51,38 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
    
     
-    z-index: 2;
+   
 }
 .write{
-    position: relative;
+   padding-left: 0.63em;
     line-height: 1.15;
-    font-size: 50px;
+    font-size: 3.125em;
     
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .readyButton{
-    position: relative;
+   
     background-color: rgb(255, 255, 255);
-    width: 193px;
-    height: fit-content;
+    
     /* position: relative;
     top: 91px;
     left: -338px; */
-    border-radius: 500px;
-    border-width: 10px;
-    padding: 14px;
-    letter-spacing: 2px;
-    font-size: 16px;
+    border-radius: 31.25em;
+    border-width: 06.2em;
+    padding: 0.87em;
+    letter-spacing: 0.125em;
+    font-size: 1em;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     cursor: pointer;
-    margin-left: -384px;
     
-    z-index: 62;
+    
+  
 
 }
 .button1{
-    position: relative;
-    left: 245px;
-    margin-left: 10px;
+    
 }
 .phonefram{
     position: relative;
@@ -135,3 +132,116 @@ border-top-right-radius: 39px;
     left: 74px;
 
 }
+/* likeeeeeeeeeeeeeeeeeeeeeeeee why spotify */
+.likename{
+
+    
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.icone{
+    height: 25rem;
+    width: 25rem;
+}
+.free{
+    
+padding-top: 13rem;
+    background: linear-gradient(4deg, rgba(176, 35, 194) 24%, rgba(96, 11, 231) 90%); 
+
+    height: 28.12rem;
+   
+   
+    text-align: center;
+    
+    
+}
+.freetext{
+ 
+   font-size: 4rem;
+   color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textlike{
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1rem;
+
+}
+.ready{
+
+    
+    background-color: rgb(61, 7, 34);
+     height: 39.12rem; 
+   
+    z-index: 25;
+    
+    /* background-image: url(assets/redyBubble.svg); */
+    background: linear-gradient(4deg, rgba(176, 35, 194) 24%, rgba(96, 11, 231) 90%); 
+}
+.readyHead{
+
+
+    /* height: 12.5rem;
+    width: 55rem; */
+    font-size: 4rem;
+    color: white;
+    font-weight: 37.5rem;
+    
+    z-index: 56;
+   
+    }
+    .readyBubble{
+       
+       
+        height:51rem;
+        width: 60rem;
+    }
+    .readyimgbub{
+        margin-left: 26rem;
+        height: 60rem;
+        width: 90rem;
+    }
+    /* foteeeeeeeeeett */
+    
+    table {
+        
+       
+    
+       
+        border-collapse: collapse;
+     }
+     
+     td{
+         /* padding-left: 42px;
+         padding-top: 60px; */
+         font-size: 1.5rem;
+         color: rgb(236, 236, 236);
+         font-family: ' monospace';
+         line-height: 3rem;
+     }
+     
+     tr{
+         font-size: 1.6rem;
+       
+         color: rgb(168, 180, 180);
+     }
+     .share{
+
+     width: 19rem;
+     height: 15rem;
+    
+     
+     }
+     .png{
+         height: 3.6rem;
+         width: 3.5rem;
+     }
+     th{
+         font-family: 'Courier New', Courier, monospace;
+         inline-size: 11rem;
+     }
+     li{
+    
+        padding: 0.4rem;
+      }
